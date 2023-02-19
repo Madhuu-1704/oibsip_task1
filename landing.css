@@ -1,0 +1,19 @@
+h2{
+    color:rgb(5, 5, 6);
+    letter-spacing: 1.4px;
+    font-size: 23px;
+}
+h3{
+    color:rgb(9, 9, 9);
+    letter-spacing: 1.4px;
+    font-size: 25px;
+}
+body{
+    background-image:url(lotus.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+label{
+    color:rgb(10, 11, 10);
+    font: size 30px;
+}
